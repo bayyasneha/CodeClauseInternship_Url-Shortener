@@ -5,28 +5,28 @@ Here's an explanation of the code:
 
 1- Import the pyshorteners module:
 
-➡ pyshorteners is a Python library that allows you to interact with various URL shortening services.
+🌟 pyshorteners is a Python library that allows you to interact with various URL shortening services.
 2- Define the shorten_url(url) function:
 
-➡ This function takes a URL as input.
+🌟 This function takes a URL as input.
 
-➡ It creates an instance of the Shortener class from pyshorteners.
+🌟 It creates an instance of the Shortener class from pyshorteners.
 
-➡ It uses the tinyurl service to shorten the provided URL.
+🌟 It uses the tinyurl service to shorten the provided URL.
 
-➡ The shortened URL is returned.
+🌟 The shortened URL is returned.
 
 3- Define the main() function:
 
-➡ This function is the entry point of the program.
+🌟 This function is the entry point of the program.
 
-➡ It prompts the user to enter a URL they want to shorten.
+🌟 It prompts the user to enter a URL they want to shorten.
 
-➡ It then calls the shorten_url() function with the user-provided URL.
+🌟 It then calls the shorten_url() function with the user-provided URL.
 
 4-In the main() function:
 
-➡ The user is prompted to enter a URL.
+🌟 The user is prompted to enter a URL.
 
 *The shorten_url() function is called with the entered URL, and the shortened URL is stored.
 
